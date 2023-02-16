@@ -1,9 +1,7 @@
 # Introduction
 
-`Two-fer` or `2-fer` is short for _two for one_.
-
-The name `two-fer` is used in some English-speaking countries when providing an offer or discount.
-It comes from the pronunciation of "two for".
 In some dialects of English, when you say "two for" quickly or in casual conversation, it sounds like "two fer".
+Two-for-one is a way of saying that if you buy one, you also get one for free.
 
-Imagine a food store that has a Valentine's Day discount where you can buy two cookies for the price of one ("two-fer one!"). You've gone for the offer and (very generously) decided to share the extra cookie with a friend.
+Imagine a bakery that has a Valentine's Day offer where you can buy two cookies for the price of one ("two-fer one!").
+You've gone for the offer and (very generously) decided to share the extra cookie with a friend.
