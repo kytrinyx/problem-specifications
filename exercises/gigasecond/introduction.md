@@ -6,8 +6,6 @@ But then it starts getting complicated.
 We have 24 hours in a day, 7 days in a week, and months?
 Well, for months it depends not only on which month it is, but also what calendar is used in the country you live in.
 
-At least there are always 365 days in a year.
-Well, except if it's a leap year and have 366 days.
 
 Overall, this seems pretty messy.
 And if we ever colonize Mars or some other planet, it's going to get even messier.
