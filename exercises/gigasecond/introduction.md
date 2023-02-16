@@ -13,13 +13,11 @@ Overall, this seems pretty messy.
 And if we ever colonize Mars or some other planet, it's going to get even messier.
 If someone says "year" do they mean Earth-year or Mars-year?
 
-Instead, we could standardize on the metric system, and count everything in seconds.
+Instead, we could standardize on the metric system, and count everything in seconds:
 
-A recipe might explain that you need to let the brownies cook in the oven for two kiloseconds (that's two thousand seconds).
-
-Perhaps you and your family would travel to somewhere exotic for two megaseconds (that's two million seconds).
-
-And if you and your spouse were married for _a thousand million_ seconds, you would celebrate your one gigasecond anniversary.
+- A food recipe might explain that you need to let the brownies cook in the oven for two kiloseconds (that's two thousand seconds).
+- Perhaps you and your family would travel to somewhere exotic for two megaseconds (that's two million seconds).
+- And if you and your spouse were married for _a thousand million_ seconds, you would celebrate your one gigasecond anniversary.
 
 ```exercism/note
 The author Vernor Vinge uses the metric system as the basis for time measurements in his science fiction novel, "A Deepness in the Sky".
