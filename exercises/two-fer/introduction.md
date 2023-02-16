@@ -6,11 +6,4 @@ The name `two-fer` is used in some English-speaking countries when providing an 
 It comes from the pronunciation of "two for".
 In some dialects of English, when you say "two for" quickly or in casual conversation, it sounds like "two fer".
 
-Imagine a store that sells a particular t-shirt for $10.
-For Valentine's day, they might provide a special offer for couples where if you buy two shirts of the same design (even if the size is different), then you get the second one for free.
-This would be a two-fer, since you get two for the price of one.
-
-Similarly, some concert venues will offer a discount if you buy two tickets instead of just one.
-
-In this exercise you have bought two cookies for the price of one.
-You are going to (very generously) share with a friend.
+Imagine a food store that has a Valentine's discount where you can buy two cookies for the price of one ("two-fer one!"). You've gone for the offer and (very generously) decided to share the extra cookie with a friend!
