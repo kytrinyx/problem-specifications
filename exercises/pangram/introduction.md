@@ -5,11 +5,7 @@ They'd like to show a different sentence each time someone views a font on their
 To give a comprehensive sense the font, the random sentences should use **all** the letters in the English alphabet.
 
 They're running a competition to get suggestions for sentences that they can use.
-Your friend is in charge of checking the submissions to see if they are valid.
-
-The competition went viral on social media, and your friend needs to check thousands of sentences.
-
-They've asked you to help out.
+Your in charge of checking the submissions to see if they are valid.
 
 ```exercism/note
 Pangram comes from Greek, παν γράμμα, pan gramma, which means "every letter".
