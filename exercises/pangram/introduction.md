@@ -1,8 +1,8 @@
 # Introduction
 
-A company that designs fonts wants to improve their website.
-They'd like to automatically show a random sentence when someone is looking at a font.
-To give a sense of what the font looks like, the random sentences should use all the letters in the English alphabet.
+You work for a company that sells fonts through their website.
+They'd like to show a different sentence each time someone views a font on their website. 
+To give a comprehensive sense the font, the random sentences should use **all** the letters in the English alphabet.
 
 They're running a competition to get suggestions for sentences that they can use.
 Your friend is in charge of checking the submissions to see if they are valid.
