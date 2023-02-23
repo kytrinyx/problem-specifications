@@ -1,11 +1,11 @@
 # Introduction
 
 You work for a company that sells fonts through their website.
-They'd like to show a different sentence each time someone views a font on their website. 
+They'd like to show a different sentence each time someone views a font on their website.
 To give a comprehensive sense the font, the random sentences should use **all** the letters in the English alphabet.
 
 They're running a competition to get suggestions for sentences that they can use.
-Your in charge of checking the submissions to see if they are valid.
+You're in charge of checking the submissions to see if they are valid.
 
 ```exercism/note
 Pangram comes from Greek, παν γράμμα, pan gramma, which means "every letter".
