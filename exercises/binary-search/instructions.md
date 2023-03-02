@@ -13,7 +13,7 @@ If not, then there are two options:
 - If the middle element is greater than our item, we can eliminate that number and all the numbers **after** it.
 - If the middle element is less than our item, we can eliminate that number and all the numbers **before** it.
 
-Then we can repeat the process on the other half of the list.
+Then we can repeat the process on the part of the list that we kept.
 
 By dividing the list in half each time, we can quickly narrow down the possible locations of our item until we find it, or until we've eliminated all possible locations.
 
