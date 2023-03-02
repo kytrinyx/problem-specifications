@@ -5,7 +5,7 @@ For example, 2, 3, 5, 7, 11, and 13 are prime numbers.
 
 The Sieve of Eratosthenes is an ancient algorithm that works by taking a list of numbers and crossing out all the numbers that aren't prime.
 
-A number that is **not** prime is called a _composite_ number.
+A number that is **not** prime is called a "composite number".
 
 To use the Sieve of Eratosthenes, you first create a list of all the numbers between 2 and your given number.
 Then you repeat the following steps:
