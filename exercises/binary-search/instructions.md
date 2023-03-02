@@ -8,8 +8,6 @@ It only works when a list has been sorted.
 
 The algorithm looks like this:
 
-If the middle element is our item, then we're done.
-
 - Divide the sorted list in half and compare the middle element with the item we're looking for.
 - If the middle element is our item, then we're done.
 - If the middle element is greater than our item, we can eliminate that number and all the numbers **after** it.
