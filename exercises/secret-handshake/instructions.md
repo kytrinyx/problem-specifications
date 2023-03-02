@@ -15,13 +15,14 @@ The actions for each number place are:
 10000 = Reverse the order of the operations in the secret handshake.
 ```
 
-Let's use the number 9 as an example.
-9 in binary is `1001`.
+Let's use the number `9` as an example:
 
-The digit that is farthest to the right is 1, so the first action is `wink`.
-Going left, the next digit is 0, so there is no double-blink.
-Going left again, the next digit is 0, so you leave your eyes open.
-Going left again, the next digit is 1, so you jump.
+- 9 in binary is `1001`.
+- The digit that is farthest to the right is 1, so the first action is `wink`.
+- Going left, the next digit is 0, so there is no double-blink.
+- Going left again, the next digit is 0, so you leave your eyes open.
+- Going left again, the next digit is 1, so you jump.
+
 That was the last digit, so the final code is:
 
 ```
