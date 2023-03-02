@@ -2,20 +2,19 @@
 
 Your task is to implement a binary search algorithm.
 
-A binary search algorithm works by dividing the sorted list in half and comparing the middle element with the item we're looking for.
+A binary search algorithm works by repeatedly splitting the list in half, only keeping the half in which we know the item we're looking for will be found.
+It allows us to quickly narrow down the possible locations of our item until we find it, or until we've eliminated all possible locations.
+It only works when a list has been sorted.
+
+The algorithm looks like this:
 
 If the middle element is our item, then we're done.
 
-If not, then there are two options:
-1. The middle element is greater than our item
-2. The middle element is less than our item.
-
+- Divide the sorted list in half and compare the middle element with the item we're looking for.
+- If the middle element is our item, then we're done.
 - If the middle element is greater than our item, we can eliminate that number and all the numbers **after** it.
 - If the middle element is less than our item, we can eliminate that number and all the numbers **before** it.
-
-Then we can repeat the process on the part of the list that we kept.
-
-By dividing the list in half each time, we can quickly narrow down the possible locations of our item until we find it, or until we've eliminated all possible locations.
+- Repeat the process on the part of the list that we kept.
 
 Here's an example:
 
