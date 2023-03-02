@@ -5,8 +5,3 @@ You don't know everyone in the club, so you and your friends have decided to cre
 You don't want anyone who isn't in the know to be able to crack the code.
 
 You designed the code so that one person says a number between 1 and 30, and the other other person turns it into a series of actions.
-
-```exercism/note
-If you aren't sure what binary is or how it works, check out [this tutorial][intro-to-binary].
-[intro-to-binary]: https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa
-```
