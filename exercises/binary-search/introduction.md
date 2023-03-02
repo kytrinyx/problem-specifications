@@ -1,7 +1,7 @@
 # Introduction
 
 You have stumbled upon a group of mathematicians who are also singer-songwriters.
-They have written songs for all their favorite numbers, and, as you can imagine, they have a lot of favorite numbers.
+They have written a song for each of their favorite numbers, and, as you can imagine, they have a lot of favorite numbers.
 
 You are curious to hear one of their songs, but with so many numbers to choose from, finding the right song could take a while.
 
