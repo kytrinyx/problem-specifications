@@ -2,9 +2,8 @@
 
 Your task is to converts a number between 1 and 31 to a sequence of actions in the secret handshake.
 
-The sequence of actions are chosen by looking at each of the number places in the binary number.
-Starting at the back, looking at the digit that is farthest to the right.
-Then, move left.
+The sequence of actions are chosen by looking at each of the digits in the binary number.
+Start at the right-most digit and move left.
 
 The actions for each number place are:
 
