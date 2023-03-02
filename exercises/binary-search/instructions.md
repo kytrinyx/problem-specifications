@@ -7,11 +7,13 @@ A binary search algorithm works by dividing the sorted list in half and comparin
 If the middle element is our item, then we're done.
 
 If not, then there are two options:
-either the middle element is greater than our item, or it is less than our item.
+1. The middle element is greater than our item
+2. The middle element is less than our item.
 
-- If the middle element is greater than our item, we can eliminate that number and all the numbers after it.
-- If the middle element is less than our item, we can eliminate that number and all the numbers before it.
-- Then we can repeat the process on the other half of the list.
+- If the middle element is greater than our item, we can eliminate that number and all the numbers **after** it.
+- If the middle element is less than our item, we can eliminate that number and all the numbers **before** it.
+
+Then we can repeat the process on the other half of the list.
 
 By dividing the list in half each time, we can quickly narrow down the possible locations of our item until we find it, or until we've eliminated all possible locations.
 
