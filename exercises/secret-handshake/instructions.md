@@ -28,7 +28,7 @@ That was the last digit, so the final code is:
 wink, jump
 ```
 
-Given the number 26, which is 11010 in binary, we get the following actions:
+Given the number 26, which is `11010` in binary, we get the following actions:
 - double blink
 - jump
 - reverse actions
