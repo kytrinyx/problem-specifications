@@ -8,7 +8,7 @@ Let's define a few terms, first.
 
 - **input** - the long sequence of digits that you need to analyze
 - **series** - a sequence of adjacent digits that is contained within the input
-- **span** - how many digits long the series is
+- **span** - how many digits long each series is
 
 To form a series, take digits that are next to each other in the original input.
 
