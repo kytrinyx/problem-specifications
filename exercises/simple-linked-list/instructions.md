@@ -9,7 +9,7 @@ The import/export functionality will use arrays.
 
 Given a range of numbers (the song IDs), create a linked list.
 
-Given a linked list, you should be able to
+Given a singly linked list, you should be able to
 - reverse the list
 - convert the list to an array
 
