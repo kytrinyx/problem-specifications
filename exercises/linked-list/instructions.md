@@ -1,6 +1,6 @@
 # Instructions
 
-Your task is to write a prototype for managing train routes, represented as a doubly linked list.
+Your task is to write a prototype for managing train routes.
 
 You don't need to worry about arrival and departure times at the stations for the prototype.
 Each station will simply be represented by a number.
