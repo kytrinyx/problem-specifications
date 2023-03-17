@@ -1,16 +1,7 @@
 # Introduction
 
-You are a software developer at a music streaming company, and you've been tasked with creating a playlist feature for your music player application.
+You are a software developer at a music streaming company.
 
-You decide to make a simple prototype that uses a singly-linked list to create a playlist that users can listen to as is, or in reverse order.
-
-~~~~exercism/note
-The linked list is a fundamental data structure in computer science, often used in the implementation of other data structures.
-
-The simplest kind of linked list is a **singly** linked list.
-That means that each element (or "node") contains data, along with something that points to the next node in the list.
-
-If you want to dig deeper into linked lists, check out [this article][intro-linked-list] that explains it using nice drawings.
-
-[intro-linked-list]: https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d
-~~~~
+You've been tasked with creating a playlist feature for your music player application.
+The feature will need to be able to import and export playlists.
+It also needs to let people reverse the order of the songs in the playlist.
