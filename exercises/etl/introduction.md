@@ -1,6 +1,6 @@
 # Introduction
 
-You work for a company that makes an online multi-player game called Lexiconia.
+You work for a company that makes an online multiplayer game called Lexiconia.
 
 To play the game, each player is given 13 letters, which they must rearrange to create words.
 Different letters have different point values, since it's easier to create words with some letters than others.
