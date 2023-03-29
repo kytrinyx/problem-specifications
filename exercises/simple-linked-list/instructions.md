@@ -3,15 +3,13 @@
 Your task is to create a prototype for a playlist feature for a music player application.
 
 For the prototype, each song will simply be represented by a number.
-The import/export functionality will use arrays.
-
 Given a range of numbers (the song IDs), create a singly linked list.
 
-Given a singly linked list, you should be able to
-- reverse the list to play the songs in the opposite order
-- convert the list to an array to export the playlist
+Given a singly linked list, you should be able to reverse the list to play the songs in the opposite order.
 
-Given an array, you should be able to import the playlist by converting it to a singly linked list.
+The prototype also needs to have import/export functionality.
+Given the playlist as a singly linked list, you will need to be able to convert it to the data type used for the external collection.
+Likewise, given a collection in the external format, you will need to import it by converting it to a singly linked list.
 
 ~~~~exercism/note
 The linked list is a fundamental data structure in computer science, often used in the implementation of other data structures.
