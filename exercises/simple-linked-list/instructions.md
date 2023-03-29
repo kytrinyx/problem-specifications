@@ -8,10 +8,10 @@ The import/export functionality will use arrays.
 Given a range of numbers (the song IDs), create a singly linked list.
 
 Given a singly linked list, you should be able to
-- reverse the list
-- convert the list to an array
+- reverse the list to play the songs in the opposite order
+- convert the list to an array to export the playlist
 
-Given an array, you should be able to convert it to a singly linked list.
+Given an array, you should be able to import the playlist by converting it to a singly linked list.
 
 ~~~~exercism/note
 The linked list is a fundamental data structure in computer science, often used in the implementation of other data structures.
