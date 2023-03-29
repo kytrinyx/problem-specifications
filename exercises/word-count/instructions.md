@@ -7,13 +7,11 @@ The dramas that the subtitles are taken from use only ASCII characters.
 The characters often speak in casual English, using contractions like _they're_ or _it's_.
 Though these contractions come from two words (e.g. _we are_), the contraction (_we're_) is considered a single word.
 
-Words can be separated by any form of punctuation or whitespace, e.g. "\t", "\n", or " ".
+Words can be separated by any form of punctuation (e.g. ":", "!", or "?") or whitespace (e.g. "\t", "\n", or " ").
 The only punctuation that does not separate words is the apostrophe in contractions.
 
 Numbers are considered words.
 So if the subtitles say `It costs 100 dollars.` then 100 will be its own word.
-However only whole numbers are considered words.
-In the sentence `It costs 24.95.` the words 24 and 95 will be considered separate words.
 
 Words are case insensitive.
 For example, the word `you` occurs three times in the following sentence:
