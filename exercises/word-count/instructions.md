@@ -20,30 +20,6 @@ For example, the word `you` occurs three times in the following sentence:
 
 The ordering of the word counts in the results doesn't matter.
 
-The two following groups of counts (for the sentence `I scream, you scream, we all scream for ice cream`) are equivalent:
-
-```text
-scream: 3
-all: 1
-cream: 1
-for: 1
-i: 1
-ice: 1
-we: 1
-you: 1
-```
-
-```text
-i: 1
-scream: 3
-you: 1
-we: 1
-all: 1
-for: 1
-ice: 1
-cream: 1
-```
-
 Here's an example that incorporates several of the elements discussed above:
 
 - simple words
