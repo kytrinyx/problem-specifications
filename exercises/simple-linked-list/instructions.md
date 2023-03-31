@@ -1,7 +1,5 @@
 # Instructions
 
-Your task is to create a prototype for a playlist feature for a music player application.
-
 For the prototype, each song will simply be represented by a number.
 Given a range of numbers (the song IDs), create a singly linked list.
 
