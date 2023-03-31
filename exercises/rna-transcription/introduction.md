@@ -10,5 +10,7 @@ That can cause all sorts of havoc.
 
 But if you can create a very specific molecule (called a micro-RNA), it can prevent the protein from being produced.
 
-This technique is called RNA Interference.
+This technique is called [RNA Interference][rnai].
+
+[rnai]: https://admin.acceleratingscience.com/ask-a-scientist/what-is-rnai/
 ~~~~
