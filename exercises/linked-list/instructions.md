@@ -1,7 +1,5 @@
 # Instructions
 
-Your task is to write a prototype for managing train routes.
-
 Your team has decided to use a doubly linked list to represent each train route in the schedule.
 Each station along the train's route will be represented by a node in the linked list.
 
