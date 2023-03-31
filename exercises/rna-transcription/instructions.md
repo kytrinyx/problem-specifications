@@ -14,3 +14,7 @@ Given a DNA strand, its transcribed RNA strand is formed by replacing each nucle
 - `C` -> `G`
 - `T` -> `A`
 - `A` -> `U`
+
+~~~~exercism/note
+If you want to look at how the inputs and outputs are structured, take a look at the examples in the test suite.
+~~~~
