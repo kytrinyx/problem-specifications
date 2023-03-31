@@ -55,7 +55,7 @@ Here's an example that incorporates several of the elements discussed above:
 
 `"That's the password: 'PASSWORD 123'!", cried the Special Agent.\nSo I fled.`
 
-The count for this subtitle would be:
+The mapping for this subtitle would be:
 
 ```text
 123: 1
