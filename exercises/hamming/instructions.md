@@ -10,9 +10,9 @@ So a score of 0 means that the student did everything right.
 A score of 4 means that the student got four questions wrong.
 
 The program can work internationally, using different scoring systems.
-For example, in Thailand you might use กขคง, whereas in Denmark you might use ABCD.
+For example, in Thailand you might use ก.ข.ค.ง., whereas in Canada you might use A.B.C.D.
 
-The test data for your program uses ACGT.
+Due to a historical accident, the test data for your program uses A.C.G.T.
 
 ~~~~exercism/note
 Comparing two sequences and counting the mistakes between them is called the Hamming Distance.
